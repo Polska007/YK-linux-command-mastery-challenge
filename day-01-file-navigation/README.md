@@ -1,26 +1,27 @@
-# Day 2 – Where Am I? Basic Orientation# Day 1 – Where Am I? Basic Orientation
+# Day 01: Where Am I? Basic Orientation
 
-## Commands Practiced
+# Phase 1 - File Navigation & Filesystem Mastery | Day 1 of 30
 
-- pwd
-- ls
-- ls -l
-- ls -a
-- ls -la
-- ls -lh
-- cd /var/log
-- cd ..
-- cd ~
-- cd -
+# Commands covered today
+See commands.md for all 10 commands with syntax and my own explanation
+of what each one does and when I would reach for it.
 
-## Practice Drill
+# What I practiced
+Printed my working directory, navigated to /var/log using an absolute path,
+back to my home directory using ~, and returned to /var/log using cd -.
+Listed its contents in long, human-readable format to confirm each move.
 
-- Printed working directory
-- Navigated to /var/log using absolute path
-- Returned to home directory using ~
-- Returned back using cd -
-- Listed contents using ls -lh
+# What surprised me
+I'm already working with Docker, Terraform, and Ansible, but while deploying
+an application on an AWS EC2 instance I realized my core Linux skills needed
+to be wider than I assumed. It's easy to spin up an EC2 instance in minutes
+with Terraform and feel like you've mastered the cloud, but without a solid
+grip on the underlying Linux fundamentals, you're not really in control of
+what you built. Lesson learned: don't skip the basics.
 
-## Status
+# Evidence
+Screenshot or terminal transcript of the drill in evidence/.
 
-Completed Day 1
+# Related
+Previous day: N/A (Day 1)
+Next day: ../day-02-file-operations/
