@@ -30,6 +30,6 @@
 - `cd -` is useful to quickly switch between two directories
 - `ls -lh` improves readability of file sizes
 
-## Status
+## Status 
 
-✅ Completed Day 1
+Day 1 Completed
