@@ -7,28 +7,25 @@ Shows the current working directory.
 Lists files and directories in the current location.
 
 ## ls -l
-Displays detailed information about files including permissions and size.
+Displays detailed information about files including permissions, owner, size, and modified date.
 
 ## ls -a
-Shows all files including hidden ones.
+Shows all files including hidden ones (those starting with a dot).
 
 ## ls -la
+Combines long format and hidden files — full detail on every item, hidden or not.
 
+## ls -lh
+Long format with human-readable file sizes (K, M, G) instead of raw bytes.
 
-## cd
-Changes the current directory.
+## cd (absolute path)
+Changes the current directory using a full path starting from root, e.g. `cd /var/log`.
 
-## clear
-Clears the terminal screen.
+## cd ..
+Moves up one directory to the parent of the current one.
 
-## history
-Displays previously used commands.
+## cd ~
+Jumps directly back to the home directory from anywhere.
 
-## whoami
-Shows the current logged-in user.
-
-## man
-Opens the manual page for a command.
-
-## echo
-Prints text to the terminal.
+## cd -
+Switches to the previous directory you were in before your last `cd`.
