@@ -58,6 +58,7 @@ I'm documenting the journey on LinkedIn as I go, sharing what I learn, the chall
 The series starts here:
 
 [Day 1 — Linux Command Mastery Challenge](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_linux-cloud-devops-share-7492705401415831552-30c5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0)
+[Day 2 — Creating, Copying, Moving, Deleting](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-ugcPost-7493067217136422912-f2mF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.
 
