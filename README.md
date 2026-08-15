@@ -16,7 +16,7 @@ This is less about memorising commands and more about getting to the point where
 | 2   | Creating, Copying, Moving, Deleting          | ✅ Complete | [day-02-file-operations](./day-02-file-operations/) |
 | 3   | Reading & Inspecting Files                   | ✅ Complete  |[day-03-file-inspection](./day-03-file-inspection/) |                              |
 | 4   | Searching the Filesystem                     | ✅ Complete | [day-04-filesystem-search](./day-04-filesystem-search/) |
-| 5   | Paths, Links & Tree Structures (Checkpoint)  | ⬜ Pending  | day-05-links-checkpoint                             |
+| 5   | Paths, Links & Tree Structures (Checkpoint)  | ✅ Complete | [day-05-links-checkpoint](./day-05-links-checkpoint/) |                            |
 | 6   | Reading & Setting Permissions                | ⬜ Pending  | day-06-permissions                                  |
 | 7   | Ownership & Special Bits                     | ⬜ Pending  | day-07-ownership                                    |
 | 8   | Privilege Escalation & Identity              | ⬜ Pending  | day-08-privilege-escalation                         |
@@ -61,5 +61,6 @@ The series starts here:
 [Day 2 — Creating, Copying, Moving, Deleting](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-ugcPost-7493067217136422912-f2mF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 [Day 3 — Reading & Inspecting Files](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-ugcPost-7493416947947180032-_rmw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 [Day 4 — Searching the Filesystem](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-ugcPost-7493808548104232960-jk9a/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
+[Day 5 — Paths, Links & Tree Structures (Checkpoint)](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-ugcPost-7494158969800724481-7KAy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.
 
