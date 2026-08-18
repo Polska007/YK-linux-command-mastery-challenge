@@ -19,7 +19,7 @@ This is less about memorising commands and more about getting to the point where
 | 5   | Paths, Links & Tree Structures (Checkpoint)  | ✅ Complete | [day-05-links-checkpoint](./day-05-links-checkpoint/) |                            |
 | 6   | Reading & Setting Permissions                | ✅ Complete | [day-06-permissions](./day-06-permissions/)         |
 | 7   | Ownership & Special Bits                     | ✅ Complete | [day-07-ownership](./day-07-ownership/)             |
-| 8   | Privilege Escalation & Identity              | ⬜ Pending  | day-08-privilege-escalation                         |
+| 8   | Privilege Escalation & Identity              | ✅ Complete | [day-08-privilege-escalation](./day-08-privilege-escalation/) |
 | 9   | Integrity, Encryption & Firewalling          | ⬜ Pending  | day-09-integrity-firewall                           |
 | 10  | Security Checkpoint & Audit                  | ⬜ Pending  | day-10-security-audit-checkpoint                    |
 | 11  | Creating & Managing Users                    | ⬜ Pending  | day-11-user-management                              |
@@ -64,5 +64,6 @@ The series starts here:
 [Day 5 — Paths, Links & Tree Structures (Checkpoint)](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-ugcPost-7494158969800724481-7KAy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 [Day 6 — Reading & Setting Permissions](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-share-7494517217037049856-G1cE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 [Day 7 — Ownership & Special Bits](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-ugcPost-7494858940598484992-M4TE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
+[Day 8 — Privilege Escalation & Identity](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-share-7495255582661210112-7quD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.
 
