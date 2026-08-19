@@ -19,8 +19,8 @@ This is less about memorising commands and more about getting to the point where
 | 5   | Paths, Links & Tree Structures (Checkpoint)  | ✅ Complete | [day-05-links-checkpoint](./day-05-links-checkpoint/) |                            |
 | 6   | Reading & Setting Permissions                | ✅ Complete | [day-06-permissions](./day-06-permissions/)         |
 | 7   | Ownership & Special Bits                     | ✅ Complete | [day-07-ownership](./day-07-ownership/)             |
-| 8   | Privilege Escalation & Identity              | ✅ Complete | [day-08-privilege-escalation](./day-08-privilege-escalation/) |
-| 9   | Integrity, Encryption & Firewalling          | ⬜ Pending  | day-09-integrity-firewall                           |
+| 8   | Privilege Escalation & Identity              | ✅ Complete | [day-08-privilege-escalation](./day-08-privilege-escalation/)
+| 9   | Integrity, Encryption & Firewalling          | ✅ Complete | [day-09-integrity-firewall](./day-09-integrity-firewall/) |
 | 10  | Security Checkpoint & Audit                  | ⬜ Pending  | day-10-security-audit-checkpoint                    |
 | 11  | Creating & Managing Users                    | ⬜ Pending  | day-11-user-management                              |
 | 12  | Groups & Access Circles                      | ⬜ Pending  | day-12-groups                                       |
