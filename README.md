@@ -24,7 +24,7 @@ This is less about memorising commands and more about getting to the point where
 | 10  | Security Checkpoint & Audit                  | ✅ Complete | [day-10-security-audit-checkpoint](./day-10-security-audit-checkpoint/) |
 | 11  | Creating & Managing Users                    | ✅ Complete | [day-11-user-management](./day-11-user-management/) |
 | 12  | Groups & Access Circles                      | ✅ Complete | [day-12-groups](./day-12-groups/) |
-| 13  | APT Package Management                       | ⬜ Pending  | day-13-apt-package-management                       |
+| 13  | APT Package Management                       | ✅ Complete | [day-13-apt-package-management](./day-13-apt-package-management/) |
 | 14  | DNF/YUM & Alternative Installs               | ⬜ Pending  | day-14-dnf-yum                                      |
 | 15  | Users & Packages Checkpoint                  | ⬜ Pending  | day-15-provisioning-checkpoint                      |
 | 16  | Environment Variables                        | ⬜ Pending  | day-16-environment-variables                        |
@@ -69,5 +69,6 @@ The series starts here:
 [Day 10 — Security Checkpoint & Audit (Checkpoint)](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_day-10-of-my-30-day-linux-command-mastery-ugcPost-7495932829802094592-R83s/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 [Day 11 — Creating & Managing Users](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_day-11-of-my-30-day-linux-command-mastery-ugcPost-7496426937092026368-iL-W/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 [Day 12 — Groups & Access Circles](https://lnkd.in/p/dUMBH2EW)
+[Day 13 — APT Package Management](https://lnkd.in/p/dayzXMZm)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.
 
