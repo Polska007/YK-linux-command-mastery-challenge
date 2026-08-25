@@ -25,8 +25,8 @@ This is less about memorising commands and more about getting to the point where
 | 11  | Creating & Managing Users                    | ✅ Complete | [day-11-user-management](./day-11-user-management/) |
 | 12  | Groups & Access Circles                      | ✅ Complete | [day-12-groups](./day-12-groups/) |
 | 13  | APT Package Management                       | ✅ Complete | [day-13-apt-package-management](./day-13-apt-package-management/) |
-| 14  | DNF/YUM & Alternative Installs               | ⬜ Pending  | day-14-dnf-yum                                      |
-| 15  | Users & Packages Checkpoint                  | ⬜ Pending  | day-15-provisioning-checkpoint                      |
+| 14  | DNF/YUM & Alternative Installs               | ✅ Complete | [day-14-dnf-yum](./day-14-dnf-yum/) |
+| 15  | Users & Packages Checkpoint                  | ✅ Complete | [day-15-provisioning-checkpoint](./day-15-provisioning-checkpoint/) |
 | 16  | Environment Variables                        | ⬜ Pending  | day-16-environment-variables                        |
 | 17  | Persisting Configuration                     | ⬜ Pending  | day-17-shell-configuration                          |
 | 18  | Vim Fundamentals                             | ⬜ Pending  | day-18-vim-fundamentals                             |
@@ -70,5 +70,7 @@ The series starts here:
 [Day 11 — Creating & Managing Users](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_day-11-of-my-30-day-linux-command-mastery-ugcPost-7496426937092026368-iL-W/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 [Day 12 — Groups & Access Circles](https://lnkd.in/p/dUMBH2EW)
 [Day 13 — APT Package Management](https://lnkd.in/p/dayzXMZm)
+[Day 14 — DNF/YUM & Alternative Installs](https://lnkd.in/p/e8Ma-yKz)
+[Day 15 — Users & Packages Checkpoint](https://lnkd.in/p/ezdskAtf)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.
 
