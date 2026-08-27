@@ -27,7 +27,7 @@ This is less about memorising commands and more about getting to the point where
 | 13  | APT Package Management                       | ✅ Complete | [day-13-apt-package-management](./day-13-apt-package-management/) |
 | 14  | DNF/YUM & Alternative Installs               | ✅ Complete | [day-14-dnf-yum](./day-14-dnf-yum/) |
 | 15  | Users & Packages Checkpoint                  | ✅ Complete | [day-15-provisioning-checkpoint](./day-15-provisioning-checkpoint/) |
-| 16  | Environment Variables                        | ⬜ Pending  | day-16-environment-variables                        |
+| 16  | Environment Variables                        | ✅ Complete | [day-16-environment-variables](./day-16-environment-variables/) |
 | 17  | Persisting Configuration                     | ⬜ Pending  | day-17-shell-configuration                          |
 | 18  | Vim Fundamentals                             | ⬜ Pending  | day-18-vim-fundamentals                             |
 | 19  | Vim Navigation & Search/Replace              | ⬜ Pending  | day-19-vim-search-replace                           |
@@ -72,5 +72,6 @@ The series starts here:
 [Day 13 — APT Package Management](https://lnkd.in/p/dayzXMZm)
 [Day 14 — DNF/YUM & Alternative Installs](https://lnkd.in/p/e8Ma-yKz)
 [Day 15 — Users & Packages Checkpoint](https://lnkd.in/p/ezdskAtf)
+[Day 16 — Environment Variables](https://lnkd.in/en4KtATN)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.
 
