@@ -30,7 +30,7 @@ This is less about memorising commands and more about getting to the point where
 | 16  | Environment Variables                        | ✅ Complete | [day-16-environment-variables](./day-16-environment-variables/) |
 | 17  | Persisting Configuration                     | ✅ Complete | [day-17-shell-configuration](./day-17-shell-configuration/) |
 | 18  | Vim Fundamentals                             | ✅ Complete | [day-18-vim-fundamentals](./day-18-vim-fundamentals/) |
-| 19  | Vim Navigation & Search/Replace              | ⬜ Pending  | day-19-vim-search-replace                           |
+| 19  | Vim Navigation & Search/Replace              | ✅ Complete | [day-19-vim-search-replace](./day-19-vim-search-replace/) |
 | 20  | Text Processing & Pipes (Checkpoint)         | ⬜ Pending  | day-20-text-processing-checkpoint                   |
 | 21  | Viewing Processes                            | ⬜ Pending  | day-21-viewing-processes                            |
 | 22  | Controlling Processes with Signals           | ⬜ Pending  | day-22-process-signals                              |
@@ -75,5 +75,6 @@ The series starts here:
 [Day 16 — Environment Variables](https://lnkd.in/en4KtATN)
 [Day 17 — Persisting Configuration](https://lnkd.in/p/eABsYH8H)
 [Day 18: Vim Fundamentals - 30-Day Linux Command Mastery Challenge](https://lnkd.in/p/drM2SHWt)
+[Day 19 — Vim Navigation & Search/Replace](https://lnkd.in/p/eQVBt9i8)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.
 
