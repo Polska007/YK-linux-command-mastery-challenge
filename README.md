@@ -28,8 +28,8 @@ This is less about memorising commands and more about getting to the point where
 | 14  | DNF/YUM & Alternative Installs               | ✅ Complete | [day-14-dnf-yum](./day-14-dnf-yum/) |
 | 15  | Users & Packages Checkpoint                  | ✅ Complete | [day-15-provisioning-checkpoint](./day-15-provisioning-checkpoint/) |
 | 16  | Environment Variables                        | ✅ Complete | [day-16-environment-variables](./day-16-environment-variables/) |
-| 17  | Persisting Configuration                     | ⬜ Pending  | day-17-shell-configuration                          |
-| 18  | Vim Fundamentals                             | ⬜ Pending  | day-18-vim-fundamentals                             |
+| 17  | Persisting Configuration                     | ✅ Complete | [day-17-shell-configuration](./day-17-shell-configuration/) |
+| 18  | Vim Fundamentals                             | ✅ Complete | [day-18-vim-fundamentals](./day-18-vim-fundamentals/) |
 | 19  | Vim Navigation & Search/Replace              | ⬜ Pending  | day-19-vim-search-replace                           |
 | 20  | Text Processing & Pipes (Checkpoint)         | ⬜ Pending  | day-20-text-processing-checkpoint                   |
 | 21  | Viewing Processes                            | ⬜ Pending  | day-21-viewing-processes                            |
@@ -73,5 +73,7 @@ The series starts here:
 [Day 14 — DNF/YUM & Alternative Installs](https://lnkd.in/p/e8Ma-yKz)
 [Day 15 — Users & Packages Checkpoint](https://lnkd.in/p/ezdskAtf)
 [Day 16 — Environment Variables](https://lnkd.in/en4KtATN)
+[Day 17 — Persisting Configuration](https://lnkd.in/p/eABsYH8H)
+[Day 18: Vim Fundamentals - 30-Day Linux Command Mastery Challenge](https://lnkd.in/p/drM2SHWt)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.
 
