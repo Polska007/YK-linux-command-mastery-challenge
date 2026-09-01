@@ -32,7 +32,7 @@ This is less about memorising commands and more about getting to the point where
 | 18  | Vim Fundamentals                             | ✅ Complete | [day-18-vim-fundamentals](./day-18-vim-fundamentals/) |
 | 19  | Vim Navigation & Search/Replace              | ✅ Complete | [day-19-vim-search-replace](./day-19-vim-search-replace/) |
 | 20  | Text Processing & Pipes (Checkpoint)         | ✅ Complete | [day-20-text-processing-checkpoint](./day-20-text-processing-checkpoint/) |
-| 21  | Viewing Processes                            | ⬜ Pending  | day-21-viewing-processes                            |
+| 21  | Viewing Processes                            | ✅ Complete | [day-21-viewing-processes](./day-21-viewing-processes/) |
 | 22  | Controlling Processes with Signals           | ⬜ Pending  | day-22-process-signals                              |
 | 23  | Init Systems & systemctl Basics              | ⬜ Pending  | day-23-systemctl-basics                             |
 | 24  | Deeper Service Management & Logs             | ⬜ Pending  | day-24-service-logs                                 |
@@ -77,5 +77,5 @@ The series starts here:
 [Day 18: Vim Fundamentals - 30-Day Linux Command Mastery Challenge](https://lnkd.in/p/drM2SHWt)
 [Day 19 — Vim Navigation & Search/Replace](https://lnkd.in/p/eQVBt9i8)
 [Day 20 — Text Processing & Pipes (Checkpoint)](https://lnkd.in/p/eZghf4pq)
-I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.
-
+[Day 21 — Viewing Processes](https://lnkd.in/p/ek_6q3vW)
+I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.		
