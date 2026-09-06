@@ -34,8 +34,8 @@ This is less about memorising commands and more about getting to the point where
 | 20  | Text Processing & Pipes (Checkpoint)         | ✅ Complete | [day-20-text-processing-checkpoint](./day-20-text-processing-checkpoint/) |
 | 21  | Viewing Processes                            | ✅ Complete | [day-21-viewing-processes](./day-21-viewing-processes/) |
 | 22  | Controlling Processes with Signals           | ✅ Complete | [day-22-process-signals](./day-22-process-signals/) |
-| 23  | Init Systems & systemctl Basics              | ⬜ Pending  | day-23-systemctl-basics                             |
-| 24  | Deeper Service Management & Logs             | ⬜ Pending  | day-24-service-logs                                 |
+| 23  | Init Systems & systemctl Basics              | ✅ Complete | [day-23-systemctl-basics](./day-23-systemctl-basics/) |
+| 24  | Deeper Service Management & Logs             | ✅ Complete | [day-24-service-logs](./day-24-service-logs/) |
 | 25  | Process & Service Checkpoint                 | ⬜ Pending  | day-25-operational-snapshot-checkpoint              |
 | 26  | Networking Basics                            | ⬜ Pending  | day-26-networking-basics                            |
 | 27  | Remote Access & File Transfer                | ⬜ Pending  | day-27-ssh-file-transfer                            |
@@ -79,4 +79,6 @@ The series starts here:
 [Day 20 — Text Processing & Pipes (Checkpoint)](https://lnkd.in/p/eZghf4pq)
 [Day 21 — Viewing Processes](https://lnkd.in/p/ek_6q3vW)
 [Day 22 — Controlling Processes with Signals](https://lnkd.in/p/eZwPHvHv)
+[Day 23 — Init Systems & systemctl Basics](https://lnkd.in/p/eNH-Rcry)
+[Day 24 — Deeper Service Management & Logs](https://lnkd.in/p/e6FjviTc)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.		
