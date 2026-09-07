@@ -37,7 +37,7 @@ This is less about memorising commands and more about getting to the point where
 | 23  | Init Systems & systemctl Basics              | ✅ Complete | [day-23-systemctl-basics](./day-23-systemctl-basics/) |
 | 24  | Deeper Service Management & Logs             | ✅ Complete | [day-24-service-logs](./day-24-service-logs/) |
 | 25  | Process & Service Checkpoint                 | ✅ Complete | [day-25-operational-snapshot-checkpoint](./day-25-operational-snapshot-checkpoint/) |
-| 26  | Networking Basics                            | ⬜ Pending  | day-26-networking-basics                            |
+| 26  | Networking Basics                            | ✅ Complete | [day-26-networking-basics](./day-26-networking-basics/) |
 | 27  | Remote Access & File Transfer                | ⬜ Pending  | day-27-ssh-file-transfer                            |
 | 28  | Bash Scripting Foundations                   | ⬜ Pending  | day-28-bash-scripting                               |
 | 29  | Functions, Arguments & Automation            | ⬜ Pending  | day-29-functions-automation                         |
@@ -82,4 +82,5 @@ The series starts here:
 [Day 23 — Init Systems & systemctl Basics](https://lnkd.in/p/eNH-Rcry)
 [Day 24 — Deeper Service Management & Logs](https://lnkd.in/p/e6FjviTc)
 [Day 25 — Process & Service Checkpoint](https://lnkd.in/p/ebg-dmST)
+[Day 26 — Networking Basics](https://lnkd.in/p/eqrNiYTE)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.		
