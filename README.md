@@ -38,7 +38,7 @@ This is less about memorising commands and more about getting to the point where
 | 24  | Deeper Service Management & Logs             | ✅ Complete | [day-24-service-logs](./day-24-service-logs/) |
 | 25  | Process & Service Checkpoint                 | ✅ Complete | [day-25-operational-snapshot-checkpoint](./day-25-operational-snapshot-checkpoint/) |
 | 26  | Networking Basics                            | ✅ Complete | [day-26-networking-basics](./day-26-networking-basics/) |
-| 27  | Remote Access & File Transfer                | ⬜ Pending  | day-27-ssh-file-transfer                            |
+| 27  | Remote Access & File Transfer                | ✅ Complete | [day-27-ssh-file-transfer](./day-27-ssh-file-transfer/) |
 | 28  | Bash Scripting Foundations                   | ⬜ Pending  | day-28-bash-scripting                               |
 | 29  | Functions, Arguments & Automation            | ⬜ Pending  | day-29-functions-automation                         |
 | 30  | Capstone: Full System Command Mastery Review | ⬜ Pending  | day-30-capstone                                     |
@@ -83,4 +83,5 @@ The series starts here:
 [Day 24 — Deeper Service Management & Logs](https://lnkd.in/p/e6FjviTc)
 [Day 25 — Process & Service Checkpoint](https://lnkd.in/p/ebg-dmST)
 [Day 26 — Networking Basics](https://lnkd.in/p/eqrNiYTE)
+[Day 27 — Remote Access & File Transfer](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-activity-7503223926878228480-qRUu?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.		
