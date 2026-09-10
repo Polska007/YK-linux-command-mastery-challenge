@@ -40,7 +40,7 @@ This is less about memorising commands and more about getting to the point where
 | 26  | Networking Basics                            | ✅ Complete | [day-26-networking-basics](./day-26-networking-basics/) |
 | 27  | Remote Access & File Transfer                | ✅ Complete | [day-27-ssh-file-transfer](./day-27-ssh-file-transfer/) |
 | 28  | Bash Scripting Foundations                   | ✅ Complete | [day-28-bash-scripting](./day-28-bash-scripting/) |
-| 29  | Functions, Arguments & Automation            | ⬜ Pending  | day-29-functions-automation                         |
+| 29  | Functions, Arguments & Automation            | ✅ Complete | [day-29-functions-automation](./day-29-functions-automation/) |
 | 30  | Capstone: Full System Command Mastery Review | ⬜ Pending  | day-30-capstone                                     |
 
 ## About Me
@@ -85,4 +85,5 @@ The series starts here:
 [Day 26 — Networking Basics](https://lnkd.in/p/eqrNiYTE)
 [Day 27 — Remote Access & File Transfer](https://www.linkedin.com/posts/yusuf-kazeem-418974b0_iotbtech-30daychallenge-linux-activity-7503223926878228480-qRUu?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeiwFQBjGt98AlDa0_fKScd9Ok65NMKui0)
 [Day 28 — Bash Scripting Foundations](https://lnkd.in/p/eM4JyAiq)
+[Day 29 — Functions, Arguments & Automation](https://lnkd.in/p/eW355v-b)
 I'll keep this section updated as I progress through the 30 days and eventually add a single link to the full article series.		
