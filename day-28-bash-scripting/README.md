@@ -22,7 +22,7 @@ watching it prompt, check, loop, and report back felt like a real shift
 from "operating Linux" to "programming Linux."
 
 # Evidence
-Screenshot or terminal transcript of the drill in evidence/.
+Screenshot or terminal transcript of the drill in evidence/
 
 # Related
 Previous day: ../day-27-ssh-file-transfer/
