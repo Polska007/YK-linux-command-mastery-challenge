@@ -1,0 +1,21 @@
+2026-09-12 21:22:53 - === Starting deployment ===
+2026-09-12 21:22:53 - Created updated local script: ./heartbeat_v2.sh
+2026-09-12 21:22:53 - Deploying ./heartbeat_v2.sh to ubuntu:/usr/local/bin/heartbeat.sh
+2026-09-12 21:22:58 - File transfer FAILED. Aborting.
+2026-09-12 21:23:00 - === Starting deployment ===
+2026-09-12 21:23:00 - Created updated local script: ./heartbeat_v2.sh
+2026-09-12 21:23:00 - Deploying ./heartbeat_v2.sh to ubuntu:/usr/local/bin/heartbeat.sh
+2026-09-12 21:24:08 - File transfer FAILED. Aborting.
+2026-09-12 21:26:56 - === Starting deployment ===
+2026-09-12 21:26:56 - Created updated local script: ./heartbeat_v2.sh
+2026-09-12 21:26:56 - Deploying ./heartbeat_v2.sh to ec2test:/usr/local/bin/heartbeat.sh
+2026-09-12 21:26:58 - File transfer succeeded.
+2026-09-12 21:26:58 - Applying correct ownership and permissions, then restarting service...
+2026-09-12 21:27:00 - Remote deployment commands executed successfully.
+2026-09-12 21:27:00 - Verifying service health...
+inactive
+Sep 12 20:27:00 ip-10-0-1-211 systemd[1]: Starting heartbeat.service - Simple Heartbeat Test Service...
+Sep 12 20:27:00 ip-10-0-1-211 heartbeat.sh[8095]: Heartbeat v2 running at Sat Sep 12 20:27:00 UTC 2026 - deployed via capstone script
+Sep 12 20:27:00 ip-10-0-1-211 systemd[1]: heartbeat.service: Deactivated successfully.
+Sep 12 20:27:00 ip-10-0-1-211 systemd[1]: Finished heartbeat.service - Simple Heartbeat Test Service.
+2026-09-12 21:27:04 - === Deployment complete ===
